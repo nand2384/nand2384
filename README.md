@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nand Patel
 
-- 🌱 I’m currently [b]learning MERN Stack[/b].
+- 🌱 I’m currently learning MERN Stack.
 - 💬 Ask me about Javascript, Express.js & MongoDB.
 - 📫 How to reach me: nand2384@gmail.com
 <!--
