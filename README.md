@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Nand Patel
 
-- 🌱 I’m currently learning MERN Stack.
-- 💬 Ask me about Javascript, Express.js & MongoDB.
+- 🌱 I'm working on building projects to showcase my MERN Stack skills.
+- 💬 Ask me about React.js, Express.js, RESTful APIs and Firebase.
 - 📫 How to reach me: nand2384@gmail.com
 - 🌐 https://nandworks.me/
 <!--
