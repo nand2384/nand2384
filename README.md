@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Nand Patel
 
 # 💫 About Me:
-🔭 I’m currently working on building projects to showcase my skills<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤔 I’m looking for help with Typescript<br>💬 Ask me about React.js, Express.js, RESTful APIs, Firebase and PostgreSQL
+🔭 I’m currently working on building projects to showcase my skills<br>👯 I’m looking to collaborate on Full Stack Projects<br>🌱 I’m currently learning Typescript<br>💬 Ask me about React.js, Express.js, RESTful APIs, Firebase and PostgreSQL
 
 
 ## 🌐 Socials:
